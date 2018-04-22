@@ -142,12 +142,13 @@ html {
 }
 
 body {
-   background: #fff;
+   /*background: #fff;*/
    font-family: 'opensans-regular', sans-serif;
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
-	color: #838C95;
+	background-color: rgba(0, 0, 0, 0.5);
+	/*color: #838C95;*/
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
